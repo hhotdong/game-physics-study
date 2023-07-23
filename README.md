@@ -6,4 +6,4 @@
 
 # References
 
-- Ian Millington, <Game physics engine development>
+- Ian Millington, Game physics engine development
